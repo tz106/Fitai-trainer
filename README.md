@@ -1,3 +1,4 @@
+![FitAi Trainer](fitai.png)
 # FitAI Trainer
 
 Proiect final Building AI Course  
